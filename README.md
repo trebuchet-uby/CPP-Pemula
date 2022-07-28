@@ -5,8 +5,7 @@
 - Algoritma Pemrograman (Semester 3)
 - Praktikum Algoritma Pemrograman (Semester 3)
 
-* Universitas Boyolali (UBY)
-* Fakultas Ilmu Komputer
-* (Sejak 01 Maret 2022 Menjadi Fakultas Komunikasi dan Teknik Informatika)
-
-* Arsip File Kenangan Terselamatkan 
+# Arsip File Kenangan Terselamatkan
+- Universitas Boyolali (UBY)
+- Prodi S1 Teknik Informatika
+- Fakultas Ilmu Komputer (Sejak 01 Maret 2022 Menjadi Fakultas Komunikasi dan Teknik Informatika)
