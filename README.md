@@ -1,5 +1,7 @@
 # BASIC-CPP
+Pemrograman Dasar C++ di Universitas Boyolali
 
+# TIMELINES
 - Pemrograman Dasar (Semester 1)
 - Struktur Dasar (Semester 2)
 - Algoritma Pemrograman (Semester 3)
