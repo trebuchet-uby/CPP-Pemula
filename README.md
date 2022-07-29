@@ -9,13 +9,13 @@
 - Praktikum Algoritma Pemrograman (Semester 3)
 - Grafika Computer Freeglut (Semester 3)
 
-# Tools
+# TOOLS
 - CodeBlock
 - Visual Studio Code
 - Visual Studio 2022
 - Freeglut
 
-# Arsip File Kenangan Terselamatkan
+# SOURCES
 - Universitas Boyolali (UBY)
 - Prodi S1 Teknik Informatika
 - Fakultas Ilmu Komputer (Sejak 01 Maret 2022 Menjadi Fakultas Komunikasi dan Teknik Informatika)
