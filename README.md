@@ -1,6 +1,5 @@
 # BASIC-CPP
 - Materi Dasar Pemrograman Komputer
-- Universitas Boyolali (UBY)
 - Mengunakan Bahasa Pemrograman C++
 
 # TIMELINES
